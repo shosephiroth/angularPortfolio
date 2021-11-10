@@ -70,9 +70,7 @@ and lastly:
 
 ng serve
 
-And now I can see this:
-
-
+And now I can see this:\
 ![Screen Shot 2021-11-08 at 4 35 07 PM](https://user-images.githubusercontent.com/44537080/140824271-ea77e417-9b78-4138-8a9a-13aeba9183f2.png)
 
 Next I decided to add Bootstrap. I found this in my search for how to do accomplish this since I'm using Angular 8.2.2. Here's what did not work:\
@@ -81,6 +79,6 @@ https://stackoverflow.com/questions/37649164/how-to-add-bootstrap-to-an-angular-
 I realized the particular version would come into play so I kept searching and found this source. This did work:\
 https://www.itsolutionstuff.com/post/how-to-add-bootstrap-in-angular-8-install-bootstrap-4-in-angular-8example.html
 
-And now my page looks like this!:
+And now my page looks like this!:\
 ![Screen Shot 2021-11-10 at 3 05 03 PM](https://user-images.githubusercontent.com/44537080/141185960-ae4afeb7-198e-40aa-aefd-4c026a0ad5e4.png)
 
