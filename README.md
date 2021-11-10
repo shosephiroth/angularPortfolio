@@ -1,6 +1,6 @@
 # Angular Portfolio Project
 
-Please scroll past these instructions to see my development notes!
+## Please scroll past these instructions to see my development notes!
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.2.
 
@@ -74,6 +74,8 @@ ng serve
 
 And now I can see this:\
 ![Screen Shot 2021-11-08 at 4 35 07 PM](https://user-images.githubusercontent.com/44537080/140824271-ea77e417-9b78-4138-8a9a-13aeba9183f2.png)
+
+## 11/10/21
 
 Next I decided to add Bootstrap. I found this in my search for how to do accomplish this since I'm using Angular 8.2.2. Here's what did not work:\
 https://stackoverflow.com/questions/37649164/how-to-add-bootstrap-to-an-angular-cli-project
