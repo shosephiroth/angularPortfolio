@@ -82,3 +82,11 @@ https://www.itsolutionstuff.com/post/how-to-add-bootstrap-in-angular-8-install-b
 And now my page looks like this!:\
 ![Screen Shot 2021-11-10 at 3 05 03 PM](https://user-images.githubusercontent.com/44537080/141185960-ae4afeb7-198e-40aa-aefd-4c026a0ad5e4.png)
 
+Took me some time to figure out how to replace the Angular icon with my face. Now you can see my big head at its regular size (depending on your screen size lol)\
+Ultimately what worked is that I had to change the name of the image to favicon.ico and update the file path urls in place. I learned some browsers look for the icon differently so you need to change the file name and update the paths, not just 1 or the other:
+
+https://stackoverflow.com/questions/40817280/how-to-change-angular-cli-favicon
+https://reactgo.com/angular-change-favicon/
+https://www.w3.org/2005/10/howto-favicon
+
+![Screen Shot 2021-11-10 at 4 17 33 PM](https://user-images.githubusercontent.com/44537080/141195582-ada7d7d5-6bf5-42bd-b323-e5fb111ef1d6.png)
