@@ -86,7 +86,10 @@ Took me some time to figure out how to replace the Angular icon with my face. No
 Ultimately what worked is that I had to change the name of the image to favicon.ico and update the file path urls in place. I learned some browsers look for the icon differently so you need to change the file name and update the paths, not just 1 or the other:
 
 https://stackoverflow.com/questions/40817280/how-to-change-angular-cli-favicon
+
 https://reactgo.com/angular-change-favicon/
+
 https://www.w3.org/2005/10/howto-favicon
 
+and here's my big head:\
 ![Screen Shot 2021-11-10 at 4 17 33 PM](https://user-images.githubusercontent.com/44537080/141195582-ada7d7d5-6bf5-42bd-b323-e5fb111ef1d6.png)
