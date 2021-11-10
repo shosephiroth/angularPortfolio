@@ -1,4 +1,6 @@
-# AngularPortfolio
+# Angular Portfolio Project
+
+Please scroll past these instructions to see my development notes!
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.2.
 
