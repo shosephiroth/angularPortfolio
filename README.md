@@ -6,6 +6,8 @@
 https://mattx2k1.netlify.app/ \
 [![Netlify Status](https://api.netlify.com/api/v1/badges/3ec0633c-c4d6-46e9-98f6-672cde573992/deploy-status)](https://app.netlify.com/sites/mattx2k1/deploys)
 
+## Angular notes:
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.2.
 
 ## Development server
@@ -35,7 +37,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Notes: 
+# Development Notes: 
+Major rough draft here at the moment just to keep track of my thoughts, share my struggles and successes with this project. 
 
 ## 11/8/21
 
