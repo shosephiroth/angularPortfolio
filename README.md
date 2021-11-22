@@ -104,3 +104,33 @@ https://www.w3.org/2005/10/howto-favicon
 
 and here's my big head:\
 ![Screen Shot 2021-11-10 at 4 17 33 PM](https://user-images.githubusercontent.com/44537080/141195582-ada7d7d5-6bf5-42bd-b323-e5fb111ef1d6.png)
+
+## 11/21/21
+
+I didn't get a lot done since I'm busy with work and working on Unit 2 assignments in LC101. I did go through a fun period of breaking my code. In the past when I did this I was able to run these commands, and be back to working as if nothing had happened:
+
+sudo npm cache clean --force 
+npm cache clear -- force  
+
+npm install
+
+But this time, no dice. Here are the notes I took from that day:
+
+### Something I learned:
+1. Totally broke my angular app yesterday. I updated Angular in the middle of a project to get a Bootstrap Angular Navbar working. Instead brought my whole project down. I struggled with it for hours. Went down a stack overflow rabbithole but to no avail. Nothing I tried worked and it felt like it only made things worse. I was very frustrated but came to the realization I never pushed my committed changes to my remote repo/GitHub. This was actually a great learning experience because I know now I need to A). make a new branch for dealing with changes and then merge once I know they are working correctly. B). I need to not update in the middle of development (Instructors and TAs warned me but I was curious lol) unless I know exactly what I'm doing or have a mentor who can help guide me through the process. C). Commit my changes at working stages of development (which I knew but didn't want my job to see that I was working on code while working with them ( ͡° ͜ʖ ͡°) lol)
+2. Experts say the best way to learn is to break your code and then try to fix it. Though I wasn't able to find a solution through StackOverflow or another source, recloning the repo, rerunning npm install (for node and and angular files/dependencies) got me back to where I was before I started making breaking changes. I copied over my working changes like resizing my profile image, adding link highlighting on hover, etc. by going into the broken project files and copying the text from the component.ts files. Worked like a charm.
+------------------------------------------------------------------------
+
+Here is what the site looks like now after some minor updates:
+
+![Screen Shot 2021-11-21 at 7 36 47 PM](https://user-images.githubusercontent.com/44537080/142786105-c7a4ed05-da48-4f6c-9eec-a5f0080fac8e.png)
+
+And if you hover your mouse over my picture you'll notice it now has a hyperlink and highlights the border of the picture. This going to help make my page look less static:
+
+
+![Screen Shot 2021-11-21 at 7 36 56 PM](https://user-images.githubusercontent.com/44537080/142786293-8942074a-7089-42ba-8f2c-3aa453ff8462.png)
+
+
+Next steps I want to do are add a Navbar which is what broke my code; Navbar being an Angular powered Bootstrap tool, Bootstrap was asking me to upgrade ANG CLI. Building one from scratch will be more fun anyways, I just wanted to try a template first to see how it would look/feel. 
+
+
