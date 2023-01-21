@@ -40,6 +40,10 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 # Development Notes: 
 Major rough draft here at the moment just to keep track of my thoughts, share my struggles and successes with this project. 
 
+## 1/20/23
+
+Jumping back into this project. I will need my Macbook Air to update the dependencies, I only have my Chromebook at the moment. Build failed due to inability to update resources/dependencies.
+
 ## 11/8/21
 
 initial commit took some time, it's been a couple months since using Angular. The commands I followed were:\
